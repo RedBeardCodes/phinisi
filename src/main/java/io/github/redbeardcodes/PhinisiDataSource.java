@@ -10,7 +10,7 @@ import jakarta.enterprise.event.Startup;
 import jakarta.inject.Inject;
 
 @ApplicationScoped
-public class PhinisDataSource {
+public class PhinisiDataSource {
 	@Inject
 	DataSource ds;
 
